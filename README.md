@@ -7,7 +7,7 @@ This repo contains all the downloadable materials and projects associated with t
 ### [Introduction to Cloud-based AI](https://www.kodeco.com/ai/paths/cloud-based-ai)
 
 - This course is part of [Artificial Intelligence APIs with Python](https://www.kodeco.com/ai/programs/ai-apis) Program, which you can take as either on-demand or live bootcamp from [Kodeco](https://www.kodeco.com).
-- 
+  
 --- 
 
 Each edition has its own branch, named `versions/[VERSION]`. The default branch for this repo is for the most recent edition.
